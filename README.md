@@ -1,4 +1,5 @@
-# PDF to CSV Converter for University Results
+# PDF to CSV Converter for University Results Using Regex
+
 
 This project is a Python-based solution for extracting, processing, and converting Mumbai University result PDFs into a structured CSV format. The tool uses regex patterns, named tuples, and pandas for data extraction, manipulation, and storage, providing an efficient way to parse unstructured PDF data into a tabular format.
 
